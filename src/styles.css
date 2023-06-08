@@ -199,3 +199,8 @@ main{
                 box-shadow: 0 0 0 transparent;
     }
 }
+.c-atom{
+    left: 50%;
+    top: 50%;
+    transform: translateY(-50%) translateX(-50%);
+}
